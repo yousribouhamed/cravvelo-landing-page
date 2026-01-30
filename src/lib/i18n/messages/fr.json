@@ -1,0 +1,274 @@
+{
+  "title": "À propos de nous",
+  "HomePage": {
+    "title": "Bienvenue sur notre site web",
+    "description": "Ceci est un exemple d'internationalisation avec Next.js 15",
+    "navigation": "Navigation",
+    "aboutLink": "À propos de nous",
+    "productsLink": "Produits",
+    "languageSwitch": "Changer de langue"
+  },
+  "AboutPage": {
+    "title": "À propos de nous",
+    "description": "Nous sommes une entreprise dédiée à fournir d'excellentes solutions pour nos clients.",
+    "ourMission": "Notre Mission",
+    "missionDescription": "Notre mission est de livrer des produits et services de haute qualité qui dépassent les attentes des clients.",
+    "backToHome": "Retour à l'accueil"
+  },
+  "landing": {
+    "allInOne": {
+      "title": "Tout ce qu’il vous faut pour créer et vendre",
+      "titleHighlight": "Cravvelo",
+      "description": "Créez votre plateforme, publiez du contenu et développez votre activité — au même endroit."
+    },
+    "hero": {
+      "title": "Créer, Vendre, Gérer",
+      "titlePart2": "Depuis un seul endroit, en toute simplicité",
+      "subtitle": "Tous les outils pour lancer votre plateforme éducative et développer votre activité en ligne.",
+      "cta": "Commencer l’essai gratuit"
+    },
+    "whatYouCanDo": {
+      "title": "Ce que vous pouvez faire",
+      "description": "Tout ce qu’il vous faut pour démarrer vite et garder le contrôle.",
+      "items": {
+        "create": {
+          "title": "Créer du contenu",
+          "description": "Ajoutez des vidéos, leçons et ressources en quelques minutes."
+        },
+        "customize": {
+          "title": "Personnaliser",
+          "description": "Adaptez la plateforme à votre marque."
+        },
+        "share": {
+          "title": "Partager et vendre",
+          "description": "Publiez et commencez à vendre à votre audience."
+        }
+      }
+    },
+    "createLaunch": {
+      "title1": "Créer",
+      "title2": "Lancer",
+      "title3": "Vendre",
+      "description": "Passez de l’idée au produit en ligne rapidement avec un flux simple."
+    },
+    "easeSpeed": {
+      "items": {
+        "ease": {
+          "title": "Installation facile",
+          "description": "Démarrez sans connaissances techniques."
+        },
+        "integrated": {
+          "title": "Outils intégrés",
+          "description": "Paiements, marketing et contenu dans un seul tableau de bord."
+        },
+        "testing": {
+          "title": "Publication rapide",
+          "description": "Itérez vite et livrez des mises à jour en confiance."
+        }
+      }
+    },
+    "newExperience": {
+      "title": "Une nouvelle",
+      "titleHighlight": "expérience",
+      "titlePart2": "pour les créateurs",
+      "description": "Offrez une meilleure expérience d’apprentissage avec des outils modernes.",
+      "features": {
+        "management": "Gestion facile",
+        "watching": "Lecture fluide",
+        "certificates": "Certificats"
+      }
+    },
+    "secureContent": {
+      "title1": "Contenu",
+      "title2": "sécurisé",
+      "description": "Protégez votre contenu avec des contrôles d’accès et des options de confidentialité.",
+      "features": {
+        "disableCopy": "Désactiver la copie",
+        "singleDevice": "Accès sur un seul appareil"
+      }
+    },
+    "bestBenefits": {
+      "title": "Meilleurs avantages",
+      "description": "Des fonctionnalités pensées pour vendre et évoluer.",
+      "items": {
+        "sell": {
+          "title": "Vendre plus",
+          "description": "Augmentez les conversions avec un paiement fluide."
+        },
+        "manage": {
+          "title": "Gérer facilement",
+          "description": "Tout organiser depuis un seul endroit."
+        },
+        "analyze": {
+          "title": "Analyser la croissance",
+          "description": "Suivez les performances et améliorez grâce aux données."
+        }
+      }
+    },
+    "pricing": {
+      "tabs": {
+        "yearly": "Annuel",
+        "monthly": "Mensuel"
+      },
+      "badge": "Le plus populaire",
+      "cta": "Commencer",
+      "plans": {
+        "starter": {
+          "title": "Starter",
+          "tagline": "Pour démarrer",
+          "features": {
+            "courses": "{count} cours",
+            "students": "{count} étudiants",
+            "storage": "{count}Go de stockage",
+            "support": "Support email",
+            "customDomain": "Domaine personnalisé"
+          }
+        },
+        "pro": {
+          "title": "Pro",
+          "tagline": "Pour grandir",
+          "features": {
+            "courses": "{count} cours",
+            "students": "{count} étudiants",
+            "storage": "{count}Go de stockage",
+            "analytics": "Analyses avancées",
+            "customDomain": "Domaine personnalisé"
+          }
+        },
+        "business": {
+          "title": "Business",
+          "tagline": "Pour équipes et marques",
+          "features": {
+            "courses": "{count}+ cours",
+            "students": "{count}+ étudiants",
+            "storage": "{count}Go de stockage",
+            "sso": "SSO / SAML",
+            "dedicatedSupport": "Support dédié"
+          }
+        }
+      }
+    },
+    "startNew": {
+      "title": "Commencez quelque chose de nouveau",
+      "description": "Lancez votre plateforme dès aujourd’hui et développez votre audience.",
+      "cta": "Créer un compte"
+    },
+    "footer": {
+      "tagline": "Créez et vendez votre plateforme d’apprentissage depuis un seul endroit.",
+      "links": {
+        "product": "Produit",
+        "company": "Entreprise",
+        "features": "Fonctionnalités",
+        "pricing": "Tarifs",
+        "terms": "Conditions d’utilisation",
+        "privacy": "Politique de confidentialité",
+        "careers": "Carrières",
+        "instagram": "Instagram"
+      },
+      "cta": {
+        "title": "Commencer",
+        "description": "Créez votre compte et publiez dès aujourd’hui.",
+        "button": "Essai gratuit"
+      },
+      "copyright": "Tous droits réservés.",
+      "madeForCreators": "Pensé pour les créateurs."
+    }
+  },
+  "pricingPage": {
+    "title": "Tarifs",
+    "description": "Choisissez l’offre adaptée à votre étape. Vous pouvez changer de plan à tout moment.",
+    "subtitle": "Simple. Clair. Réel.",
+    "currencySymbol": "$",
+    "perMonth": "/mois",
+    "cta": "Commencer",
+    "mostPopular": "Le plus populaire",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "tagline": "Pour les petits créateurs.",
+        "features": {
+          "workspace": "1 espace de travail",
+          "members": "Jusqu’à 500 membres",
+          "storage": "10 Go de stockage",
+          "bandwidth": "50 Go de bande passante vidéo",
+          "admins": "1 admin",
+          "modules": "Cours OU Produits",
+          "support": "Support standard",
+          "payments": "Vendre des produits (débloquer les paiements)"
+        }
+      },
+      "growth": {
+        "name": "Growth",
+        "tagline": "Pour les entreprises sérieuses.",
+        "note": "C’est votre moteur de revenus principal.",
+        "features": {
+          "workspace": "1 espace de travail",
+          "members": "Jusqu’à 5 000 membres",
+          "storage": "100 Go de stockage",
+          "bandwidth": "500 Go de bande passante vidéo",
+          "admins": "5 admins",
+          "modules": "Cours + Produits + Affiliation",
+          "customDomain": "Domaine personnalisé",
+          "support": "Support prioritaire"
+        }
+      },
+      "scale": {
+        "name": "Scale",
+        "tagline": "Pour les agences / gros vendeurs.",
+        "features": {
+          "workspace": "1 espace de travail",
+          "members": "20 000 membres",
+          "storage": "500 Go de stockage",
+          "bandwidth": "2 To de bande passante",
+          "admins": "10 admins",
+          "everythingUnlocked": "Tout débloqué",
+          "support": "Support dédié",
+          "earlyAccess": "Accès anticipé aux nouvelles fonctionnalités"
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "subtitle": "Réponses rapides aux questions fréquentes.",
+      "items": {
+        "trial": {
+          "q": "Proposez-vous un essai gratuit ?",
+          "a": "Oui — vous pouvez commencer avec un essai gratuit et passer à un plan payant quand vous êtes prêt."
+        },
+        "cancel": {
+          "q": "Puis-je annuler à tout moment ?",
+          "a": "Oui. Vous pouvez annuler quand vous le souhaitez ; votre plan reste actif jusqu’à la fin de la période de facturation."
+        },
+        "upgrade": {
+          "q": "Puis-je changer de plan plus tard ?",
+          "a": "Bien sûr. Vous pouvez passer à un plan supérieur ou inférieur à tout moment. Les changements de facturation s’appliquent immédiatement ou au prochain cycle selon votre choix."
+        },
+        "storageBandwidth": {
+          "q": "Comment fonctionnent le stockage et la bande passante vidéo ?",
+          "a": "Le stockage correspond aux fichiers que vous importez. La bande passante vidéo correspond au volume de données vidéo diffusées à vos membres chaque mois."
+        },
+        "customDomain": {
+          "q": "Les domaines personnalisés sont-ils pris en charge ?",
+          "a": "Oui, à partir de Growth. Vous pouvez connecter votre propre domaine en quelques clics."
+        },
+        "payments": {
+          "q": "Comment fonctionnent les paiements ?",
+          "a": "Les paiements sont débloqués pour vous permettre de vendre des produits et de percevoir vos revenus via la plateforme."
+        },
+        "refunds": {
+          "q": "Proposez-vous des remboursements ?",
+          "a": "Si quelque chose ne va pas, contactez le support et nous vous aiderons. L’éligibilité dépend de votre plan et des conditions du prestataire de paiement."
+        },
+        "support": {
+          "q": "Quel support est inclus ?",
+          "a": "Starter inclut un support standard. Growth inclut un support prioritaire. Scale inclut un support dédié."
+        }
+      }
+    },
+    "bottomCta": {
+      "title": "Prêt à commencer à vendre ?",
+      "subtitle": "Créez votre compte et lancez-vous en quelques minutes.",
+      "button": "Créer un compte"
+    }
+  }
+}

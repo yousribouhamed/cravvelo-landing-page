@@ -1,0 +1,274 @@
+{
+  "title": "About Us",
+  "HomePage": {
+    "title": "Welcome to Our Website",
+    "description": "This is an example of internationalization with Next.js 15",
+    "navigation": "Navigation",
+    "aboutLink": "About Us",
+    "productsLink": "Products",
+    "languageSwitch": "Switch Language"
+  },
+  "AboutPage": {
+    "title": "About Us",
+    "description": "We are a company dedicated to providing excellent solutions for our clients.",
+    "ourMission": "Our Mission",
+    "missionDescription": "Our mission is to deliver high-quality products and services that exceed customer expectations.",
+    "backToHome": "Back to Home"
+  },
+  "landing": {
+    "allInOne": {
+      "title": "Everything you need to build and sell",
+      "titleHighlight": "Cravvelo",
+      "description": "Create your learning platform, publish content, and grow your business—all in one place."
+    },
+    "hero": {
+      "title": "Create, Sell, Manage",
+      "titlePart2": "From one place, with great ease",
+      "subtitle": "All the tools you need to build your educational platform and grow your business online.",
+      "cta": "Start your free trial"
+    },
+    "whatYouCanDo": {
+      "title": "What you can do",
+      "description": "Everything you need to start fast and stay in control.",
+      "items": {
+        "create": {
+          "title": "Create your content",
+          "description": "Upload videos, lessons, and resources in minutes."
+        },
+        "customize": {
+          "title": "Customize your platform",
+          "description": "Make it feel like your brand."
+        },
+        "share": {
+          "title": "Share and sell",
+          "description": "Publish and start selling to your audience."
+        }
+      }
+    },
+    "createLaunch": {
+      "title1": "Create",
+      "title2": "Launch",
+      "title3": "Sell",
+      "description": "Go from idea to a live product quickly with a simple workflow."
+    },
+    "easeSpeed": {
+      "items": {
+        "ease": {
+          "title": "Easy setup",
+          "description": "Start without technical knowledge."
+        },
+        "integrated": {
+          "title": "Integrated tools",
+          "description": "Payments, marketing, and content in one dashboard."
+        },
+        "testing": {
+          "title": "Fast publishing",
+          "description": "Iterate quickly and ship updates with confidence."
+        }
+      }
+    },
+    "newExperience": {
+      "title": "A new",
+      "titleHighlight": "experience",
+      "titlePart2": "for creators",
+      "description": "Deliver a better learning experience with modern tools and clean design.",
+      "features": {
+        "management": "Easy management",
+        "watching": "Smooth watching",
+        "certificates": "Certificates"
+      }
+    },
+    "secureContent": {
+      "title1": "Secure",
+      "title2": "content",
+      "description": "Protect your content with access controls and privacy-first features.",
+      "features": {
+        "disableCopy": "Disable copy",
+        "singleDevice": "Single device access"
+      }
+    },
+    "bestBenefits": {
+      "title": "Best benefits",
+      "description": "Features designed to help you sell and scale.",
+      "items": {
+        "sell": {
+          "title": "Sell more",
+          "description": "Increase conversions with a smooth checkout experience."
+        },
+        "manage": {
+          "title": "Manage easily",
+          "description": "Keep everything organized in one place."
+        },
+        "analyze": {
+          "title": "Analyze growth",
+          "description": "Track progress and improve based on insights."
+        }
+      }
+    },
+    "pricing": {
+      "tabs": {
+        "yearly": "Yearly",
+        "monthly": "Monthly"
+      },
+      "badge": "Most popular",
+      "cta": "Get started",
+      "plans": {
+        "starter": {
+          "title": "Starter",
+          "tagline": "For getting started",
+          "features": {
+            "courses": "{count} course(s)",
+            "students": "{count} student(s)",
+            "storage": "{count}GB storage",
+            "support": "Email support",
+            "customDomain": "Custom domain"
+          }
+        },
+        "pro": {
+          "title": "Pro",
+          "tagline": "For growing creators",
+          "features": {
+            "courses": "{count} course(s)",
+            "students": "{count} student(s)",
+            "storage": "{count}GB storage",
+            "analytics": "Advanced analytics",
+            "customDomain": "Custom domain"
+          }
+        },
+        "business": {
+          "title": "Business",
+          "tagline": "For teams and brands",
+          "features": {
+            "courses": "{count}+ courses",
+            "students": "{count}+ students",
+            "storage": "{count}GB storage",
+            "sso": "SSO / SAML",
+            "dedicatedSupport": "Dedicated support"
+          }
+        }
+      }
+    },
+    "startNew": {
+      "title": "Start something new",
+      "description": "Launch your platform today and grow your audience.",
+      "cta": "Create your account"
+    },
+    "footer": {
+      "tagline": "Build and sell your learning platform from one place.",
+      "links": {
+        "product": "Product",
+        "company": "Company",
+        "features": "Features",
+        "pricing": "Pricing",
+        "terms": "Terms of Service",
+        "privacy": "Privacy Policy",
+        "careers": "Careers",
+        "instagram": "Instagram"
+      },
+      "cta": {
+        "title": "Get started",
+        "description": "Create your account and start publishing today.",
+        "button": "Start free"
+      },
+      "copyright": "All rights reserved.",
+      "madeForCreators": "Made for creators."
+    }
+  },
+  "pricingPage": {
+    "title": "Pricing",
+    "description": "Choose a plan that matches your stage. Upgrade or downgrade anytime.",
+    "subtitle": "Simple. Clear. Real.",
+    "currencySymbol": "$",
+    "perMonth": "/month",
+    "cta": "Get started",
+    "mostPopular": "Most Popular",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "tagline": "For small creators.",
+        "features": {
+          "workspace": "1 workspace",
+          "members": "Up to 500 members",
+          "storage": "10GB storage",
+          "bandwidth": "50GB video bandwidth",
+          "admins": "1 admin",
+          "modules": "Courses OR Products",
+          "support": "Standard support",
+          "payments": "Sell products (unlock payments)"
+        }
+      },
+      "growth": {
+        "name": "Growth",
+        "tagline": "For serious businesses.",
+        "note": "This is your core revenue driver.",
+        "features": {
+          "workspace": "1 workspace",
+          "members": "Up to 5,000 members",
+          "storage": "100GB storage",
+          "bandwidth": "500GB video bandwidth",
+          "admins": "5 admins",
+          "modules": "Courses + Products + Affiliate",
+          "customDomain": "Custom domain",
+          "support": "Priority support"
+        }
+      },
+      "scale": {
+        "name": "Scale",
+        "tagline": "For agencies / heavy sellers.",
+        "features": {
+          "workspace": "1 workspace",
+          "members": "20,000 members",
+          "storage": "500GB storage",
+          "bandwidth": "2TB bandwidth",
+          "admins": "10 admins",
+          "everythingUnlocked": "Everything unlocked",
+          "support": "Dedicated support",
+          "earlyAccess": "Early access to new features"
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "subtitle": "Quick answers to common questions.",
+      "items": {
+        "trial": {
+          "q": "Do you offer a free trial?",
+          "a": "Yes — you can start with a free trial and upgrade when you’re ready."
+        },
+        "cancel": {
+          "q": "Can I cancel anytime?",
+          "a": "Yes. Cancel whenever you want; your plan stays active until the end of the billing period."
+        },
+        "upgrade": {
+          "q": "Can I change plans later?",
+          "a": "Absolutely. Upgrade or downgrade anytime. Billing changes apply immediately or at the next billing cycle depending on your selection."
+        },
+        "storageBandwidth": {
+          "q": "How do storage and video bandwidth work?",
+          "a": "Storage is for your uploaded files. Video bandwidth is the amount of video data streamed to members each month."
+        },
+        "customDomain": {
+          "q": "Do you support custom domains?",
+          "a": "Yes on Growth and above. Connect your own domain in a few clicks."
+        },
+        "payments": {
+          "q": "How do payments work?",
+          "a": "Payments are unlocked so you can sell products and collect revenue through the platform."
+        },
+        "refunds": {
+          "q": "Do you offer refunds?",
+          "a": "If something isn’t right, contact support and we’ll help. Refund eligibility depends on your plan and payment provider terms."
+        },
+        "support": {
+          "q": "What kind of support do I get?",
+          "a": "Starter includes standard support. Growth includes priority support. Scale includes dedicated support."
+        }
+      }
+    },
+    "bottomCta": {
+      "title": "Ready to start selling?",
+      "subtitle": "Create your account and launch in minutes.",
+      "button": "Create account"
+    }
+  }
+}
