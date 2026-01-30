@@ -22,8 +22,8 @@ const NAVIGATION_LINKS = [
 
 const SCROLL_THRESHOLD = 64;
 const INSTAGRAM_URL = "https://www.instagram.com/cravvelo/";
-const SIGN_UP_URL = "https://beta.cravvelo.com/sign-up";
-const SIGN_IN_URL = "https://beta.cravvelo.com/sign-in";
+const SIGN_UP_URL = "https://app.cravvelo.com/sign-up";
+const SIGN_IN_URL = "https://app.cravvelo.com/sign-in";
 
 const NavBar: React.FC = () => {
   const [hasShadow, setHasShadow] = useState(false);
